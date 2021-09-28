@@ -78,6 +78,7 @@ bintray {
     }
 }
 
-//task wrapper(type: Wrapper) {
-//  gradleVersion = '2.4'
-//}
+// wrapper {
+  // gradleVersion = '2.6'
+// }
+
