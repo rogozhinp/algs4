@@ -12,7 +12,6 @@ public class SelectionSort extends SortingTemplate{
         }
     }
 
-        
     public static void main(String[] args) {
         String[] a = { "C", "B", "I", "V", "W", "Q" };
         System.out.print("initial array: ");
