@@ -1,4 +1,4 @@
-package edu.princeton.cs.src.simplequeue;
+package edu.princeton.cs.src.fundamentals.simplequeue;
 
 import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.Queue;

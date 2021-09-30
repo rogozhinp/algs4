@@ -1,4 +1,4 @@
-package edu.princeton.cs.src.stats;
+package edu.princeton.cs.src.fundamentals.stats;
 
 import edu.princeton.cs.algs4.Bag;
 import edu.princeton.cs.algs4.StdIn;

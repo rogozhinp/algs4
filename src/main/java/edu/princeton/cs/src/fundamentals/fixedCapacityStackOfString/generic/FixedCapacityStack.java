@@ -1,4 +1,4 @@
-package edu.princeton.cs.src.fixedCapacityStackOfString.generic;
+package edu.princeton.cs.src.fundamentals.fixedCapacityStackOfString.generic;
 
 public class FixedCapacityStack<T> {
     

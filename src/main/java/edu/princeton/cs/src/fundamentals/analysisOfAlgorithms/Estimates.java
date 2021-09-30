@@ -1,4 +1,4 @@
-package edu.princeton.cs.src.analysisOfAlgorithms;
+package edu.princeton.cs.src.fundamentals.analysisOfAlgorithms;
 
 import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.StdRandom;

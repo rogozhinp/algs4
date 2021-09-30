@@ -1,4 +1,4 @@
-package edu.princeton.cs.src.fixedCapacityStackOfString.notGeneric;
+package edu.princeton.cs.src.fundamentals.fixedCapacityStackOfString.notGeneric;
 
 public class FixedCapacityStackOfStringImpl implements FixedCapacityStackOfString{
     

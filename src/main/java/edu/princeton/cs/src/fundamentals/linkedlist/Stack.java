@@ -1,4 +1,4 @@
-package edu.princeton.cs.src.linkedlist;
+package edu.princeton.cs.src.fundamentals.linkedlist;
 
 public class Stack <Item> {
     

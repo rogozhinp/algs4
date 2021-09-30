@@ -1,4 +1,4 @@
-package edu.princeton.cs.src.twoStackAlgorithm;
+package edu.princeton.cs.src.fundamentals.twoStackAlgorithm;
 
 import edu.princeton.cs.algs4.Stack;
 import edu.princeton.cs.algs4.StdIn;

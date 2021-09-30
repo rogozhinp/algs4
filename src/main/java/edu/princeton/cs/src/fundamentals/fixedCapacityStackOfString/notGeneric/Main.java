@@ -1,4 +1,4 @@
-package edu.princeton.cs.src.fixedCapacityStackOfString.notGeneric;
+package edu.princeton.cs.src.fundamentals.fixedCapacityStackOfString.notGeneric;
 
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
