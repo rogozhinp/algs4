@@ -1,4 +1,4 @@
-package edu.princeton.cs.src.sorting;
+package edu.princeton.cs.src.sorting.elementarySort;
 
 public class SelectionSort extends SortingTemplate{
     

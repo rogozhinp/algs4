@@ -1,4 +1,4 @@
-package edu.princeton.cs.src.sorting;
+package edu.princeton.cs.src.sorting.elementarySort;
 
 import edu.princeton.cs.algs4.StdOut;
 

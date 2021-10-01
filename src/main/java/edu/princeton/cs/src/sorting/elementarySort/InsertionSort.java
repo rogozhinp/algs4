@@ -1,7 +1,7 @@
-package edu.princeton.cs.src.sorting;
+package edu.princeton.cs.src.sorting.elementarySort;
 
-import static edu.princeton.cs.src.sorting.SortingTemplate.isSorted;
-import static edu.princeton.cs.src.sorting.SortingTemplate.show;
+import static edu.princeton.cs.src.sorting.elementarySort.SortingTemplate.isSorted;
+import static edu.princeton.cs.src.sorting.elementarySort.SortingTemplate.show;
 
 public class InsertionSort extends SortingTemplate {
 
