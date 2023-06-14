@@ -8,6 +8,7 @@ buildscript {
 plugins {
     id "com.jfrog.bintray" version "1.7"
     id 'java'
+    id 'jacoco'
 }
 
 group = 'edu.princeton.cs'
@@ -93,4 +94,9 @@ test {
 	testLogging {
 		events "passed", "skipped", "failed"
 	}
+                 finalizedBy jacocoTestReport
+}
+
+jacocoTestReport {
+         dependsOn test
 }
